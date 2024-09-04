@@ -7,14 +7,12 @@
 
 - 💬 Ask me about **Programming, Problem Solving, C/C++, Python, Javascript, ReactJS, MongoDB, NodeJS.**
 
-- 📫 How to reach me **aditya.gup1231@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/aditya-gupta-45b7ab229/**
 
 - 📄 Know about my experiences [file:///C:/Users/adity/Downloads/Resumee.pdf](file:///C:/Users/adity/Downloads/Resumee.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya-gupta-45b7ab229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gupta-45b7ab229/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aditya_gup1231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_gup1231/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
