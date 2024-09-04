@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/aditya-gupta-45b7ab229/**
 
-- 📄 Know about my experiences [file:///C:/Users/adity/Downloads/Resumee.pdf](file:///C:/Users/adity/Downloads/Resumee.pdf)
+- 📄 Know about my experiences [https://tinyurl.com/resume1231adityagupta](https://tinyurl.com/resume1231adityagupta)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
